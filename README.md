@@ -52,7 +52,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 <table>
     <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhhornn&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhhornn&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Jhhorn's GitHub stats" /></td>
         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhhornn&theme=tokyonight&layout=compact&hide_border=true" /></td>
     </tr>
 </table>
