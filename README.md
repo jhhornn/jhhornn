@@ -16,7 +16,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 - 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing awosiseo@gmail.com.
+- 📫 Here's the [link](https://drive.google.com/file/d/1vB9leccSfidfHwKXgiW-raXOSWb6AGF8/view?usp=drivesdk) to my CV.
 
 ---
 
@@ -33,8 +33,6 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
 
 <br>
