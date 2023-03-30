@@ -61,3 +61,8 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 </table>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhornn&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Jhhornn's GitHub stats" /></div>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn" alt="Jhhornn's wakatime stats" /></div>
+<!-- [![Jhhornn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
