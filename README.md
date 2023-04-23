@@ -23,15 +23,15 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,express,react,bootstrap,typescript,nestjs,powershell,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,express,react,bootstrap,typescript,nestjs,powershell,bash,nodejs)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=postman,docker,kubernetes,figma,vim,git,vscode,codepen,vscode,visualstudio,atom,regex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,docker,kubernetes,figma,vim,git,vscode,codepen,vscode,visualstudio,devto,github,atom,regex,md)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,mongoose,typeorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ---
 #### 🔮 OS
