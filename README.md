@@ -41,7 +41,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 </div>
 
 ---
-
+### :chart_with_upwards_trend: GitHub Stats:
 <table>
     <tr>
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhhornn&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Jhhorn's GitHub stats" /></td>
@@ -51,8 +51,9 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhornn&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Jhhornn's GitHub stats" /></div>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn" alt="Jhhornn's wakatime stats" /></div>
-<!-- [![Jhhornn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn)](https://github.com/jhhornn/github-readme-stats) -->
+---
+  ### :watch: Wakatime Stat:
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ---
   ### 🏆 GitHub Profile Trophy:
