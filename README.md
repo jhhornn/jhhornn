@@ -24,7 +24,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,express,react,bootstrap,typescript,nestjs,powershell,bash,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,express,react,bootstrap,typescript,nestjs,jest,powershell,bash,nodejs)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
@@ -36,10 +36,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 ---
 #### 🔮 OS
-[![My Skills](https://skillicons.dev/icons?i=window,linux)](https://skillicons.dev)
-
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
 ### :chart_with_upwards_trend: GitHub Stats:
