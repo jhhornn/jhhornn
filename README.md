@@ -1,4 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhhornn.jhhornn)
+[![wakatime](https://wakatime.com/badge/user/ff812e68-cab9-414c-8522-599fd17f606c.svg)](https://wakatime.com/@ff812e68-cab9-414c-8522-599fd17f606c)
 
  
 # Hello there; welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
@@ -57,7 +58,8 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 
 ---
   ### 🏆 GitHub Profile Trophy:
----
  <div>
   <img width=810 src="https://github-profile-trophy.vercel.app/?username=jhhornn&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
+
+---
