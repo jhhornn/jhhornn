@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhhornn.jhhornn)
+
+ 
 # Hello there; welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <br/>
@@ -19,35 +22,21 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 - 📫 Here's the [link](https://drive.google.com/file/d/1vB9leccSfidfHwKXgiW-raXOSWb6AGF8/view?usp=drivesdk) to my CV.
 
 ---
+#### 🦾 Software
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,express,react,bootstrap,typescript,nestjs,powershell,nodejs)](https://skillicons.dev)
 
-## Languages and Tools
+---
+#### 🧬 Tools & Programs
+[![My Skills](https://skillicons.dev/icons?i=postman,docker,kubernetes,figma,vim,git,vscode,codepen,vscode,visualstudio,atom,regex,md)](https://skillicons.dev)
 
-<div align="center">
-  
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="40" width="50">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="50" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
+---
+#### 🗄 Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,mongoose,typeorm)](https://skillicons.dev)
 
-<br>
+---
+#### 🔮 OS
+[![My Skills](https://skillicons.dev/icons?i=window,linux)](https://skillicons.dev)
 
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/html.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/css.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="40" width="35">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/azure.png?raw=true" height="40" width="40">
 
 </div>
 
@@ -63,6 +52,11 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhornn&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Jhhornn's GitHub stats" /></div>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn" alt="Jhhornn's wakatime stats" /></div>
-<!-- [![Jhhornn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Jhhornn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhhornn)](https://github.com/jhhornn/github-readme-stats) -->
 
-
+---
+  ### 🏆 GitHub Profile Trophy:
+---
+ <div>
+  <img width=810 src="https://github-profile-trophy.vercel.app/?username=jhhornn&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
+</div>
