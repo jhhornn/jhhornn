@@ -20,7 +20,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 - 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 Here's the [link](https://drive.google.com/file/d/1vB9leccSfidfHwKXgiW-raXOSWb6AGF8/view?usp=drivesdk) to my CV.
+- 📫 Here's the [link](https://drive.google.com/file/d/1PchF7bgYsliBoyTUc7yAVnhZIuRjqVo2/view?usp=sharing) to my CV.
 
 ---
 #### 🦾 Software
